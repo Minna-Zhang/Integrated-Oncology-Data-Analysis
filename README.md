@@ -12,6 +12,14 @@ This project aims to:
 6. Apply appropriate data cleaning, exploratory analysis, visualization, and statistical methods
 7. Interpret the findings from scientific, clinical and industry-relevant perspectives
 
+## Research Questions
+1. How has global oncology clinical trial activity changed over time?
+2. Which cancer types are most heavily represented in clinical development?
+3. How are oncology trials distributed across different clinical phases?
+4. Which countries and regions contribute most to global oncology research activity?
+5. How do industry-sponsored trials differ from non-industry-sponsored trials?
+6. What broader therapeutic or development trends can be identified from the available data?
+
 ## Project outputs
 The completed project will include:
 1. a cleaned and structured oncology clinical trial dataset
@@ -22,16 +30,7 @@ The completed project will include:
 6. a concise summary of the main scientific, clinical and industry-relevant findings.
 7. A final project report outlining the data, methods, results, interpretation and limitations.
 
-## Research Questions
-1. How has global oncology clinical trial activity changed over time?
-2. Which cancer types are most heavily represented in clinical development?
-3. How are oncology trials distributed across different clinical phases?
-4. Which countries and regions contribute most to global oncology research activity?
-5. How do industry-sponsored trials differ from non-industry-sponsored trials?
-6. What broader therapeutic or development trends can be identified from the available data?
-
-## Planned Workflow
-
+## Workflow
 1. Source and review a suitable oncology clinical trial dataset
 2. Select the variables most relevant to the research questions
 3. Clean and standardise the raw data
